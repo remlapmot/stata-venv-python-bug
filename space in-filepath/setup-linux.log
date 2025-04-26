@@ -1,0 +1,6 @@
+(space in-filepath) tom@DESKTOP-2QJE0C2:~/GitHub/stata-venv-python-bug/space in-filepath$ python < example.py > example-linux.log
+Traceback (most recent call last):
+  File "<stdin>", line 3, in <module>
+  File "/usr/local/stata18/utilities/pystata/stata.py", line 16, in <module>
+    import sfi
+ModuleNotFoundError: No module named 'sfi'
