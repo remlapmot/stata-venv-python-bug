@@ -1,0 +1,34 @@
+
+  ___  ____  ____  ____  ____ ®
+ /__    /   ____/   /   ____/      StataNow 18.5
+___/   /   /___/   /   /___/       MP—Parallel Edition
+
+ Statistics and Data Science       Copyright 1985-2023 StataCorp LLC
+                                   StataCorp
+                                   4905 Lakeway Drive
+                                   College Station, Texas 77845 USA
+                                   800-782-8272        https://www.stata.com
+                                   979-696-4600        service@stata.com
+
+Stata license: Unlimited-user 2-core network, expiring 29 Jan 2026
+Serial number: 501809305331
+  Licensed to: IT Services
+               University of Bristol
+
+Notes:
+      1. Unicode is supported; see help unicode_advice.
+      2. More than 2 billion observations are allowed; see help obs_advice.
+      3. Maximum number of variables is set to 5,000 but can be increased;
+          see help set_maxvar.
+-------------------------------------------------------------------------------
+    Python Settings
+      set python_exec      D:\stata-venv-python-bug\no-spaces-in-filepath\.venv
+> \Scripts\python.exe
+      set python_userpath  
+
+    Python system information
+      initialized          yes
+      version              3.13.1
+      architecture         64-bit
+      library path         C:\Users\tom\AppData\Roaming\uv\python\cpython-3.13.
+> 1-windows-x86_64-none\python313.dll
