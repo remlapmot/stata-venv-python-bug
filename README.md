@@ -1,6 +1,6 @@
 # Example repo to demonstrate a possible bug in the way Stata detects Python installations
 
-Possible bug: Stata incorrectly errors if there is a Python installation in a venv that has a space in its filepath.
+Possible bug: On macOS and Linux Stata incorrectly errors if there is a Python installation in a venv that has a space in its filepath.
 
 To run the examples, `cd` into each directory and run the commands in the `setup-{macos|windows|linux}.sh` scripts.
 
